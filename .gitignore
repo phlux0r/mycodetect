@@ -1,0 +1,12 @@
+**/*.pyc
+__pycache__
+tf_files
+retrain
+.idea/
+**/*~
+gradle*
+libs/
+local.properties
+android.iml
+.gradle/
+android/assets/.*
